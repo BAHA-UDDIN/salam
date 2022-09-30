@@ -152,7 +152,7 @@ def banner():
 \x1b[1;92m██      ██ ███████ ███████       ██   ████ ███████  ███ ███                                                                                                                                                                  
 """)
 os.system('clear')
-os.system("play-audio salam ")
+os.system("play-audio salam.mp3")
 banner()
 
 #--------------------[ BAGIAN-MASUK ]--------------#
